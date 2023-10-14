@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# How fast can you type?
 
-Game called Words.
+Words Game
 
 Clone repository, run `npm i`, then run `npm run dev`
 
